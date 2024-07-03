@@ -58,4 +58,4 @@ Open a pull request.
 Contact
 Your Name -VEENACHANDRA.VN@GMAIL.COM
 
-Project Link: https://github.com/yourusername/SALES_DATA_ANALYSIS_ON_POWER_BI
+Project Link: https://github.com/veena202/SALES_DATA_ANALYSIS_ON_POWER_BI
