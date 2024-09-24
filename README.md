@@ -55,7 +55,7 @@ Push to the branch (git push origin feature-branch).
 Open a pull request.
 
 
-Contact
+---------------------------------------------------------
 Your Name -VEENACHANDRA.VN@GMAIL.COM
 
 Project Link: https://github.com/veena202/SALES_DATA_ANALYSIS_ON_POWER_BI
